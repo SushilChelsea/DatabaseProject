@@ -20,7 +20,6 @@
 @C:\Users\Sushil\Desktop\DatabaseProject\proc_insert_customer_car.sql
 @C:\Users\Sushil\Desktop\DatabaseProject\proc_insert_car_model.sql
 @C:\Users\Sushil\Desktop\DatabaseProject\proc_delete_car_model.sql
-@C:\Users\Sushil\Desktop\DatabaseProject\proc_delete_car_model.sql
 @C:\Users\Sushil\Desktop\DatabaseProject\proc_switch_case.sql
 @C:\Users\Sushil\Desktop\DatabaseProject\proc_while_loop.sql
 @C:\Users\Sushil\Desktop\DatabaseProject\proc_for_loop.sql
