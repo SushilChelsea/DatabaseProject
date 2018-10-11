@@ -1,0 +1,36 @@
+-- Local Drive Location
+--@C:\Users\Sushil\Desktop\DatabaseProject\Alter.sql        
+
+-- Author: Sushil Pun
+--15/03/2017
+
+/* Drop */
+DROP FUNCTION func_car_models_price;
+DROP PROCEDURE proc_car_models_price;
+DROP PROCEDURE proc_customer_citizenship;
+DROP PROCEDURE proc_bill_number;
+DROP PROCEDURE proc_booking_item_type;
+DROP PROCEDURE proc_insert_customer_car;
+DROP PROCEDURE proc_insert_car_model;
+DROP PROCEDURE proc_delete_car_model;
+DROP PROCEDURE pro_car_category;	
+DROP PROCEDURE proc_for_loop;
+DROP TRIGGER trig_car_price;
+DROP TRIGGER trig_booking_date_ck;
+
+
+DROP TABLE bookings;
+DROP TABLE customer_cars;
+DROP TABLE car_models;
+DROP TABLE mechanics;
+DROP TABLE customers;
+DROP TABLE addresses;
+
+-- First table must be droped then object TYPE
+DROP TYPE address_type;
+DROP TYPE booking_item_table_type;
+DROP TYPE booking_item_type;
+DROP TYPE specilization_varray_type;
+DROP TYPE specilization_type;
+
+PURGE RECYCLEBIN;
