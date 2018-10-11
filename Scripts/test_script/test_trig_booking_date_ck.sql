@@ -1,5 +1,5 @@
 -- Local Drive Location
---@C:\Users\Sushil\Desktop\DatabaseProject\Alter.sql        
+--C:\Users\Sushil\Desktop\DatabaseProject\test_script\test_trig_booking_date_ck.sql     
 
 -- Author: Sushil Pun
 --15/03/2017

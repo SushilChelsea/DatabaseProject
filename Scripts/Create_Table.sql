@@ -1,5 +1,5 @@
 -- Local Drive Location
---@C:\Users\Sushil\Desktop\DatabaseProject\Alter.sql        
+-- @C:\Users\Sushil\Desktop\DatabaseProject\Create_Table.sql   
 
 -- Author: Sushil Pun
 --15/03/2017
